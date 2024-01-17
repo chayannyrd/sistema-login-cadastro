@@ -8,7 +8,7 @@ const Login = () => {
   return (
     <Container>
       <Form>
-        <h1>Conecte-se</h1>
+        <h1>CONECTE-SE</h1>
         <Input
           name='email'
           placeholder='Digite o seu e-mail'

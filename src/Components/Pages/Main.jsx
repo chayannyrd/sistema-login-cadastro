@@ -1,5 +1,6 @@
 export default function Main () {
     return(
-        <div>Deu Bom</div>
+        <div>Acesse http://localhost:3000/login</div>
     )
 }
+
